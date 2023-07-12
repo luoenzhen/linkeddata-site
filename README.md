@@ -1,6 +1,7 @@
 # TERN Linked Data Services Website source code.
 
-> Live at https://linkeddata.tern.org.au.
+>
+ Live at https://linkeddata.tern.org.au.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
